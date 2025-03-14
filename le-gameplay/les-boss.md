@@ -12,7 +12,7 @@ Ils peuvent apparaître de manière <mark style="color:blue;">**aléatoire**</ma
 
 ## <mark style="color:blue;">Les Niveaux de Difficulté</mark>
 
-Les Boss peuvent avoir <mark style="color:blue;">**3 niveaux de difficulté**</mark>, qui influencent directement la qualité du butin obtenu :
+Les Boss peuvent avoir <mark style="color:blue;">**3 niveaux de difficulté et leur niveau peut grandement varier et même dépasser le niveau 100**</mark>, qui influencent directement la qualité du butin obtenu :
 
 | <mark style="color:blue;">**Difficulté**</mark>   | <mark style="color:blue;">**Particularité**</mark> |
 | ------------------------------------------------- | -------------------------------------------------- |
@@ -21,7 +21,7 @@ Les Boss peuvent avoir <mark style="color:blue;">**3 niveaux de difficulté**</m
 | <mark style="color:purple;">**Légendaire**</mark> | Boss extrêmement puissant, butin très rare         |
 
 {% hint style="warning" %}
-<mark style="color:blue;">**Les boss ont des statistiques boostées**</mark> et peuvent facilement <mark style="color:blue;">**tuer votre équipe**</mark> en une seule attaque, même vos Pokémon les plus puissants.
+<mark style="color:blue;">**Les boss ont des statistiques boostées**</mark> et peuvent facilement <mark style="color:blue;">**tuer votre équipe**</mark> en une seule attaque, même vos Pokémon les plus puissants. Ils ne sont pas capturables.
 
 Préparez-vous bien avant de les affronter !
 {% endhint %}
@@ -34,7 +34,7 @@ Après avoir vaincu un Boss, un <mark style="color:blue;">**menu spécial**</mar
 
 Ce menu contient <mark style="color:blue;">**des Pokéballs**</mark> : vous devrez en <mark style="color:blue;">**choisir 3**</mark>.
 
-Une fois vos 3 choix faits, une <mark style="color:blue;">**loterie**</mark> est lancée pour déterminer vos <mark style="color:blue;">**récompenses finales**</mark>.
+Une fois vos 3 choix faits, une <mark style="color:blue;">**loterie**</mark> est lancée pour déterminer vos <mark style="color:blue;">**récompenses finales**</mark>. Pour les récupérer appuyer simplement sur votre touche pour fermer l'inventaire.
 
 {% hint style="info" %}
 Chaque <mark style="color:blue;">**Pokéball**</mark> correspond à un <mark style="color:blue;">**Tier de récompense**</mark>
