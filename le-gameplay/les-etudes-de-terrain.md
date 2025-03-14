@@ -21,8 +21,8 @@ Vous pouvez récupérer des études de terrain de plusieurs façons :
 * En vous rendant dans la <mark style="color:blue;">**`/boutique`**</mark>, où vous pouvez obtenir <mark style="color:blue;">**2 études gratuites chaque jour**</mark>.
 
 {% hint style="info" %}
-Les <mark style="color:blue;">**Études de Terrain**</mark> se présentent sous forme de parchemins dans votre inventaire. Vous pouvez consulter les récompenses associées à ces études en utilisant la commande <mark style="color:blue;">**`/parchemins`**</mark>.
-{% endhint %}
+Les <mark style="color:blue;">**Études de Terrain**</mark> se présentent sous forme de parchemins dans votre inventaire. Vous pouvez consulter les récompenses associées à ces études en utilisant la commande <mark style="color:blue;">**`/parchemins`**</mark>. Lorsque vous avez une étude de térrain, faite click droit pour dévoiler la quête. ATTENTION il y a une date d'expiration, faite donc en sorte qu'une fois révéller vous accomplisser la quête dans les temps sinon vous n'aurrez
+ aucune récompense.{% endhint %}
 
 ## <mark style="color:blue;">Les niveaux de difficulté</mark>
 
