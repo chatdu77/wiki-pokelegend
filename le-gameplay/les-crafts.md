@@ -22,6 +22,7 @@ La MasterBall est la seule PokéBall non achetable ni craftable.&#x20;
 
 * Utilisez la commande <mark style="color:blue;">**`/shop`**</mark> et cliquez sur la catégorie <mark style="color:blue;">**Pokéball**</mark>.
 * L’achat se fait avec des <mark style="color:blue;">**PokéCoins**</mark>.
+* Vous pouvez aussi les acheter aux autres joueurs dans le /ah ou /gts. Mais les prix dépenderont des autres joueurs, cela peut être alors plus ou moins cher que dans le <mark style="color:blue;">/shop.
 
 #### 🧪 <mark style="color:blue;">**Craft des Pokéballs**</mark>
 
